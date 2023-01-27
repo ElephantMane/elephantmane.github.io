@@ -1,0 +1,18 @@
+html{
+  height: 600px;
+  width: 100vw;
+  background: black;
+  overflow: hidden;
+  background: #000000;  
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.87), rgba(0, 0, 0, 0.87)), url("consuming\ fire.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.87), rgba(0, 0, 0, 0.87)), url("consuming\ fire.png"); 
+}
+
+
+body{
+  text-align: center;
+  color: antiquewhite;
+  font-size: 350%;
+  font-family: Romans;
+}
+
