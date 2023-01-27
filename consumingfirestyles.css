@@ -13,7 +13,7 @@ html{
 body{
   text-align: center;
   color: antiquewhite;
-  font-size: 210%;
+  font-size: 150%;
   font-family: Romans;
 }
 
@@ -53,6 +53,6 @@ div{
 a{ 
   text-align: center;
   color: rgb(255, 255, 255);
-  font-size: 110%;
+  font-size: 150%;
   font-family: Romans;
 }
