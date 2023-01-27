@@ -2,7 +2,8 @@ html{
   height: 600px;
   width: 100vw;
   background: black;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: scroll;
   background: #000000;  
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.87), rgba(0, 0, 0, 0.87)), url("consuming\ fire.png");
   background: linear-gradient(rgba(0, 0, 0, 0.87), rgba(0, 0, 0, 0.87)), url("consuming\ fire.png"); 
@@ -12,21 +13,21 @@ html{
 body{
   text-align: center;
   color: antiquewhite;
-  font-size: 250%;
+  font-size: 210%;
   font-family: Romans;
 }
 
 h1{
   text-align: center;
   color: antiquewhite;
-  font-size: 150%;
+  font-size: 200%;
   font-family: Romans;
 }
 
 h3{
   text-align: center;
   color: antiquewhite;
-  font-size: 100%;
+  font-size: 150%;
   font-family: Romans;
 }
 
@@ -34,10 +35,24 @@ h3{
 h4{
   text-align: center;
   color: antiquewhite;
-  font-size: 100%;
+  font-size: 150%;
   font-family: Romans;
+}
+
+div{
+  display: inline-block; 
+  text-align: left;
+  color: rgb(196, 162, 116);
+  font-size: 110%;
+  font-family: Romans;
+
 }
 
 
 
-
+a{ 
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 110%;
+  font-family: Romans;
+}
